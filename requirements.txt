@@ -1,4 +1,5 @@
 django==3.2.9
+django-debug-toolbar==3.2.2
 django-model-utils==4.2.0
 factory-boy==3.2.1
 text-unidecode==1.3
